@@ -1,0 +1,18 @@
+state,sc_pct_population,st_pct_population,sc_landless_pct,st_landless_pct,all_rural_landless_pct,population_source,landlessness_source,notes
+Andhra Pradesh,17.1,7.0,58.3,42.1,44.2,Census 2011,NSSO 77th Round (2018-19),Includes landless agricultural labourers
+Bihar,15.9,1.3,71.4,62.8,58.1,Census 2011,NSSO 77th Round (2018-19),High concentration of Musahar and Chamar landlessness
+Chhattisgarh,12.8,30.6,49.2,35.6,36.4,Census 2011,NSSO 77th Round (2018-19),ST landlessness understated due to FRA forest claims
+Gujarat,7.1,14.8,55.8,31.2,38.5,Census 2011,NSSO 77th Round (2018-19),Industrial displacement inflates landlessness in south Gujarat
+Haryana,20.2,0.0,68.9,,55.3,Census 2011,NSSO 77th Round (2018-19),No scheduled tribe population of significance
+Jharkhand,11.8,26.2,61.2,33.8,39.6,Census 2011,NSSO 77th Round (2018-19),Heavy mining displacement in Adivasi belt
+Karnataka,17.1,7.0,60.1,44.3,45.8,Census 2011,NSSO 77th Round (2018-19),
+Kerala,9.1,1.5,54.2,37.6,41.2,Census 2011,NSSO 77th Round (2018-19),Operation Barga equivalent improved tenancy security
+Madhya Pradesh,15.6,21.1,62.3,38.4,42.1,Census 2011,NSSO 77th Round (2018-19),
+Maharashtra,11.8,9.4,57.6,41.8,43.3,Census 2011,NSSO 77th Round (2018-19),
+Odisha,17.1,22.8,58.9,32.5,38.2,Census 2011,NSSO 77th Round (2018-19),FRA recognition improving but patchy
+Punjab,31.9,0.0,69.8,,56.2,Census 2011,NSSO 77th Round (2018-19),Dalits ~32% of population but own ~3% of agricultural land
+Rajasthan,17.8,13.5,56.4,39.1,42.6,Census 2011,NSSO 77th Round (2018-19),
+Tamil Nadu,20.0,1.1,62.5,47.2,48.9,Census 2011,NSSO 77th Round (2018-19),
+Telangana,15.5,9.1,60.8,43.5,46.2,Census 2011,NSSO 77th Round (2018-19),Dalit Bandhu scheme (2021) cash-transfer model
+Uttar Pradesh,20.7,0.6,67.3,58.6,54.8,Census 2011,NSSO 77th Round (2018-19),
+West Bengal,23.5,5.8,53.2,38.9,44.7,Census 2011,NSSO 77th Round (2018-19),Operation Barga recorded 1.4 million sharecroppers
